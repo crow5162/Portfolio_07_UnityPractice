@@ -1,0 +1,15 @@
+{
+    "name": "StageA",
+    "references": [
+        "GUID:8876a22d0612daa4c8fc86d802ef0936"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
